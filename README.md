@@ -9,4 +9,4 @@ QQ群号：207126361<br/>
 学习任务二分支二：实现响应式支持<br/>
 在任务一基础上，支持对手机、Pad等不同终端的适配<br/>
 联系我们：xinghu0213@gmail.com<br/>
-![百度前端学院学习0213]（http://www.tecmint.com/wp-content/uploads/2013/10/Install-GitHub.jpeg）
+![github](http://techbeat.com/wp-content/uploads/2013/02/github.jpg)
